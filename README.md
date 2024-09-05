@@ -36,7 +36,7 @@ This project demonstrates an automated CI/CD pipeline for a sample application u
 ```bash
 git clone https://github.com/yourusername/CI-CD-Pipeline-Docker-Jenkins-Kubernetes.git
 cd CI-CD-Pipeline-Docker-Jenkins-Kubernetes
-2. Set Up Jenkins
+### 2. Set Up Jenkins
 Navigate to the jenkins/ directory and build the Jenkins Docker image:
 
 bash
